@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+
+#middle1{
+  text-align: center;
+}
+#head{
+text-align: ccenter
+padding: 10px 30px;
+ font-family: "Bitter", serif;
+}
+#headimg{
+  height: 200px;
+  width: 95%;
+} 
+#head2{
+  display: flex;
+  text-align: ccenter
+  justify-content: space-betwen;
+}
+#headimg2{
+  height: 100px;
+  width:40%;
+}  
+#last{
+  text-align: left;
+  padding: 10px 30px;
+   font-family: "Bitter", serif;
+   line-height: 30px;
+}
